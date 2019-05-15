@@ -68,6 +68,10 @@ body {
     margin-top: -6px;
 }
 
+.samstanding {
+        height: 475px;
+}
+
 .col-container {
     height: 500px;
     width: 100%;
@@ -129,7 +133,43 @@ body {
 }
 
 
-<--------------About Styles-------------------------->
+/*<--------------About Styles-------------------------->*/
 
+.col-c
 
-<-------------Contact Styles------------------------->
+h2 {
+    margin: auto;
+    margin-top: 70px;
+    text-align: center;
+    background-color: red;
+    height: 70px;
+    width: 300px;
+    padding-top: 25px;
+    border-radius: 8px 8px;
+}
+
+.about-column {
+    width: 30%;
+    height: 600px;
+    border: 3px solid  #77EEEE;
+    float: left;
+    margin-left: 28px;
+    margin-bottom: 20px;
+}
+
+.about-img, .about-video {
+    display: block
+    margin: auto;
+    margin-top: 20px;
+    height: 300px;
+}
+
+.about-img {
+    width: 400px;
+}
+
+.about-audio {
+    height: 300px;
+    margin-top: -121px;
+}
+/*<-------------Contact Styles------------------------->*/
